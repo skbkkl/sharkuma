@@ -3,7 +3,7 @@ This page displays information and technical resources relating to Oracle Cloud 
 
 Review Date: 07 January 2025
 
-Licensing
+# Licensing
 
 Copyright (c) 2023 Oracle and/or its affiliates.
 
