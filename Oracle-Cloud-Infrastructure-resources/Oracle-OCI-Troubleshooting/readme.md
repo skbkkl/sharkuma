@@ -1,3 +1,6 @@
+# Overview 
+This [Document](Troubleshooting-OCI-Win-VM-Console-Connection.pdf) explain about how to troubleshoot Windows VM console connection via SAC.
+
 # License
 Copyright (c) 2023 Oracle and/or its affiliates.
 
