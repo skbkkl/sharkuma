@@ -4,6 +4,8 @@ This [Document](Troubleshooting-OCI-Win-VM-Console-Connection.pdf) explain about
 
 This [Document](Windows-Instance-Console-Creation.pdf) explain about how to set up a console connection to an OCI Windows instance, which can help with virtual machine troubleshooting
 
+This [Document](On-premise Linux VM migration pre-requisites steps BYOI to  Oracle OCI.PDF) explain about On-premise Linux VM migation pre-requisites steps BYOI to OCI for Oracle Linux 7/8 , RHEL 7/8 and CentOS 7/8
+
 # License
 Copyright (c) 2023 Oracle and/or its affiliates.
 
