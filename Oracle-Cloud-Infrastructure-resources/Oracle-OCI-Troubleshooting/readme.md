@@ -8,6 +8,8 @@ This [Document](https://github.com/skbkkl/sharkuma/blob/main/Oracle-Cloud-Infras
 
 This [Document](https://github.com/skbkkl/sharkuma/blob/main/Oracle-Cloud-Infrastructure-resources/Oracle-OCI-Troubleshooting/OCI-Win-Instance-Console-Connection-FATAL%20ERROR-Network-error.pdf) explain about Troubleshooting OCI Compute Windows VM Console Connection Fails: FATAL ERROR: Network error
 
+This [Document](https://github.com/skbkkl/sharkuma/blob/main/Oracle-Cloud-Infrastructure-resources/Oracle-OCI-Troubleshooting/On-premise-OCI-Windows-BYOI.pdf) explain about Deploying On-Premises Windows Server Custom Images to Oracle OCI
+
 # License
 Copyright (c) 2023 Oracle and/or its affiliates.
 
